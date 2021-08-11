@@ -1,6 +1,9 @@
 import json
 import requests
 
+# 과거 티어에 대한 정보가 없음
+# 현재 티어로만 분배해야함 - 랭겜 안하면 실력 확인 불가능 ㅜ,ㅜ
+
 api_key = "RGAPI-72041298-77a5-43b8-a416-75aac041317d"
 
 print("1: 플레이어 검색")
